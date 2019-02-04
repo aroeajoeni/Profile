@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">NAME:</string>
+    <string name="age">AGE:</string>
+    <string name="id">ID:</string>
+    <string name="aroe_ajoeni">AROE AJOENI</string>
+    <string name="_19">19</string>
+    <string name="a17dw4292">A17DW4292</string>
+    <string name="next">Next</string>
+</resources>
